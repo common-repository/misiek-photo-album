@@ -1,0 +1,44 @@
+<style>
+#misiek_photo_album img {
+	padding:0;
+	margin:0;
+}
+#misiek_photo_album.misiek_album_widget {
+	width:130px;
+	height:140px;
+}
+
+#misiek_photo_album .widget_header a{
+	border:0;
+	background:none;
+	color:#6F83A4;
+	margin:0;
+	padding:0;
+}
+
+#misiek_photo_album .widget_header{
+	padding:0;
+	margin:0;
+	font-size:12px;
+	margin-top:10px;
+	color:#6F83A4;
+	font-weight:bold;
+}
+
+#misiek_photo_album a {
+	float:left;
+	margin:5px;
+	position:relative;
+	border:1px solid #D8D8D8;
+	background:#EEEEEE;
+	padding:5px;
+}	
+
+#misiek_photo_album .image_wrap a:hover {
+	background:#fff;
+}
+
+#misiek_albums {
+	float:left;
+}
+</style>
